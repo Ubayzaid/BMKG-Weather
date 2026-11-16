@@ -59,7 +59,7 @@ Aplikasi web prakiraan cuaca modern Indonesia berbasis **API Resmi BMKG (Badan M
 ### Langkah-langkah:
 1. Buka terminal di folder project:
    ```powershell
-   cd "C:\Users\Ubay\.gemini\antigravity\scratch\bmkg-weather-app"
+   cd "C:\Users\[namauser]\.gemini\antigravity\scratch\bmkg-weather-app"
    ```
 2. Jalankan aplikasi:
    ```powershell
