@@ -1,0 +1,13 @@
+{
+  "name": "bmkg-weather-app",
+  "version": "1.0.0",
+  "description": "Aplikasi Web Cuaca Indonesia berbasis API BMKG dengan visual interaktif ala Samsung/Google Weather",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
